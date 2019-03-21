@@ -1,0 +1,50 @@
+rename qm.tex
+noh
+rename qc.tex
+ud
+mkdir projects
+mkdir spark.tex
+to
+rename spark.tex
+rename evhsrobo.tex
+rename apcsafinal.tex
+rename googlefoobar.tex
+search projects
+search kot
+mkdir demo
+rename Driver.java.bak
+mkdir hello-world
+shell gradle init --type=kotlin-application
+search random
+search 
+search emoji
+mkd
+mkdir q
+search qua
+touch Plan.css
+touch Plan.
+touch GraduationRequirements.css
+touch GraduationRequirements.js
+rename Plan.js
+rename Cairo.zip
+rename Montserrat-BoldItalic.ttf
+mkdir gradreq
+rename GraduationRequirements.js
+mkdir plan
+mkdir Semester.js
+touch
+mkdir requirements
+touch 
+touch Requirement.js
+rename Requirement.js
+search j
+open_with vim
+
+search prof
+search down
+rename
+search proj
+rename succulent-stock.jpg
+dele
+delete
+open_with 
