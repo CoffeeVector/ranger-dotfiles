@@ -92,6 +92,9 @@ handle_extension() {
 		mdless -w ${PV_WIDTH} "${FILE_PATH}" && exit 5
 		#mdv -t 960.847 "${FILE_PATH}" && exit 5
 		exit 1;;
+	web-bookmark)
+		cat ${FILE_PATH} | python ~/Projects/web-bookmarks/window-title.py && exit 5
+		exit 1
 esac
 }
 
